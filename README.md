@@ -13,7 +13,7 @@ npm start
 ```
 
 ## Format
-The folder will be named ```LastName-FirstName```, the text file ```Month-Day-Year.txt```.
+The folder will be named ```FirstName-LastName```, the text file ```Month-Day-Year.txt```.
 
 ```
 leetcode // platform name
